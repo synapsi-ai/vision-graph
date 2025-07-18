@@ -15,7 +15,7 @@ dev_requires = [
 ]
 
 setuptools.setup(
-    name="vision-graph",
+    name="visiongraph",
     version="0.0.1",
     author="Synapsi.ai",
     author_email="hello@synapsi.ai",
@@ -36,7 +36,7 @@ setuptools.setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     packages=setuptools.find_packages(where='.'),
-    python_requires=">=3.7",
+    python_requires=">=3.12",
     install_requires=install_requires,
     extras_require={
         "dev": dev_requires,
