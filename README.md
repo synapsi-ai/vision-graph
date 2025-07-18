@@ -1,2 +1,2 @@
-# veedeo-vision-graph
+# vision-graph
 Python library for creating vision ML pipelines
