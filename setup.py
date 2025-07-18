@@ -24,8 +24,8 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/tuo_utente/tuo_repo",
     project_urls={  
-        "Bug Tracker": "https://github.com/tuo_utente/tuo_repo/issues",
-        "Documentation": "https://tuo_utente.github.io/tuo_repo/",
+        "Bug Tracker": "https://github.com/synapsi-ai/vision-graph",
+        # "Documentation": "https://tuo_utente.github.io/tuo_repo/",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
